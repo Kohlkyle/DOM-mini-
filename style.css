@@ -1,0 +1,40 @@
+.bulb {
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+}
+
+.light {
+  background-color: yellow;
+}
+
+.coin {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.penny {
+  width: 40px;
+  height: 40px;
+  color: coral;
+}
+
+.nickel {
+  width: 50px;
+  height: 50px;
+  color: grey;
+}
+
+.dime {
+  width: 30px;
+  height: 30px;
+  color: grey;
+}
+
+.quatrter {
+  width: 70px;
+  height: 70px;
+  color: grey;
+}
